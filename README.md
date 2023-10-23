@@ -8,7 +8,8 @@ It is a mobile application development project using Riverpod and MVC/MVC+S arch
 - get: ^4.1.4
 - cupertino_icons: ^1.0.2
 
-![loginPage (2)](https://github.com/sevggii/Flutter_StudyCase/assets/49620686/f781faf3-6f43-4cd9-a9b7-56cc42fb4dbe)
+![loginPage (3)](https://github.com/sevggii/Flutter_StudyCase/assets/49620686/26af2999-831a-4d00-87af-59b28e09d3ef)
+
 
 
 
